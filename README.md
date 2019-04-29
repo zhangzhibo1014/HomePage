@@ -2,4 +2,4 @@
 
 我的个人主页
 
-测试站点：zhangzhibo.top
+测试站点：http://zhangzhibo.top
